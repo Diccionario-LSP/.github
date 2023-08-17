@@ -1,1 +1,1 @@
-# .github
+# Esta es el README principal
